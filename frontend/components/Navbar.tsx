@@ -15,12 +15,14 @@ export default function Navbar() {
         {/* Logo */}
         <div className="flex items-center gap-4">
           <Image
-            src="/images/logo.png"
-            alt="Victory International School Logo"
-            width={60}
-            height={60}
-            className="rounded-full"
-          />
+  src="/logo.png"
+  alt="Victory International School Logo"
+  width={60}
+  height={60}
+  className="rounded-full"
+/>
+            
+          
 
           <div>
             <h2 className="text-blue-950 font-bold text-lg md:text-xl">
