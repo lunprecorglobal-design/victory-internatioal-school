@@ -12,9 +12,9 @@ export default function Footer() {
 
       <p>Afugiri, Umuahia North, Abia State</p>
 
-      <p>📞 07930900674</p>
+      <p>📞 07030900674</p>
 
-      <p>✉️ victoryinternational@gmail.com</p>
+      <p>✉️ victoryinternatioal@gmail.com</p>
 
       <p>© 2026 Victory International School. All rights reserved.</p>
     </footer>
